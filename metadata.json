@@ -1,0 +1,6 @@
+{
+  "name": "Devang Shinde Portfolio",
+  "description": "Interactive, animated developer portfolio for Devang Shinde - Founder @ ByteBuddy, AI-ML Intern, Space Systems & Cyber Security Researcher",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
